@@ -1,0 +1,17 @@
+### Propias del carro
+precio
+marca
+modelo
+año
+color
+tipo combustible
+puertas
+transmision
+motor
+carroceria
+kilometros
+
+### externas
+precio dolar
+precio barril petroleo
+
