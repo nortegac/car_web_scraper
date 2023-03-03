@@ -4,7 +4,7 @@ marca
 modelo
 año
 color
-tipo combustible
+combustible
 puertas
 transmision
 motor
